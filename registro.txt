@@ -1,0 +1,1 @@
+* Aqui se guardara un registro de todo lo que introduzca el usuario y la respuesta que se genera*
